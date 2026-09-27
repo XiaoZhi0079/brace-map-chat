@@ -1,0 +1,8 @@
+export const WORKSPACE_STORAGE_KEY = 'brace-map-chat:v3'
+export const LEGACY_WORKSPACE_STORAGE_KEY = 'brace-map-chat:v2'
+export const ACTIVE_PROFILE_STORAGE_KEY = 'brace-map-chat:active-profile'
+export const REDIS_SNAPSHOT_VERSION_KEY = 'brace-map-chat:redis-snapshot-version'
+export const AGENT_SESSIONS_STORAGE_KEY = 'brace-map-chat:agent-sessions:v1'
+export const AGENT_MODEL_STORAGE_KEY = 'brace-map-chat:agent-model:v1'
+export const AGENT_SETUP_DRAFT_STORAGE_KEY = 'brace-map-chat:agent-setup-draft:v1'
+export const AGENT_PLANNING_SESSIONS_STORAGE_KEY = 'brace-map-chat:agent-planning-sessions:v1'
